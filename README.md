@@ -46,4 +46,4 @@ bumper switch(digital output)
 
 ## In Action
 
-![gif](https://media.giphy.com/media/P84r4gYwzuf5XHVKTP/giphy.gif)
+![](https://media1.giphy.com/media/P84r4gYwzuf5XHVKTP/giphy.gif)
