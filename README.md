@@ -41,7 +41,7 @@ bumper switch(digital output)
 
 ## Pics
 
-![](https://github.com/AndreAzzalin/Franco_1.0/blob/main/Immagine5.jpg)
+![](https://github.com/AndreAzzalin/Franco_1.0/blob/main/immagine5.jpg)
 
 
 ## In Action
